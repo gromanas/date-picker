@@ -3,7 +3,7 @@
 
 #### _Description:_
 
-This project is meant to help you handle Android and iOS Date Picker on a Javascript framework 
+This repo is meant to help you handle Android and iOS Date Picker on a Javascript framework 
 such as wdio.
 
 There is a base function called *date_picker.js*. 
