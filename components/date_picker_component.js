@@ -20,7 +20,7 @@ class DatePickerComponent {
   }
 
   getDatePickerAndroidPreviousBtn() {
-    return $('android=new UiSelector().resourceId("android:id/previous")');
+    return $('android=new UiSelector().resourceId("android:id/prev")');
   }
 
   getDatePickerAndroidNextBtn() {
